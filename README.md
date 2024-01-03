@@ -5,8 +5,6 @@
 **Project Name:** Shadow  
 **Author:** Pirate-Emperor
 
-![Shadow Logo](shadow_logo.png)
-
 ## Description
 
 Shadow is a versatile repository developed by Pirate-Emperor that focuses on generating shadow maps from various lunar models, including Lunar_ISR, Crater_Detection, Height_Map, DTM_3D, and Hazard_Map. This project combines the outputs of these models to create detailed shadow maps of the lunar terrain. Shadow maps are essential for understanding lighting conditions, studying surface features, and enhancing the realism of lunar exploration simulations.
