@@ -19,6 +19,14 @@ Shadow integrates the following models to derive shadow maps:
 4. **DTM_3D:** Estimates the depth information of lunar terrain from 2D images.
 5. **Hazard_Map:** Identifies potential hazards on the lunar surface.
 
+## Screenshots
+
+### Shadow
+![screenshot11](images/shadow_hazard.png)
+![screenshot12](images/shadow_mask.png)
+![screenshot13](images/super_shadow_hazard.png)
+![screenshot14](images/super_shadow_mask.png)
+
 ## Features
 
 1. **Comprehensive Shadow Mapping:** Shadow combines the outputs of various models to create comprehensive shadow maps, capturing the intricate details of lunar surface features.
